@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-pomodoro-timer/static/css/main.003f06a0.chunk.css",
+    "main.js": "/React-pomodoro-timer/static/js/main.e099222d.chunk.js",
+    "main.js.map": "/React-pomodoro-timer/static/js/main.e099222d.chunk.js.map",
+    "runtime-main.js": "/React-pomodoro-timer/static/js/runtime-main.6681a6bc.js",
+    "runtime-main.js.map": "/React-pomodoro-timer/static/js/runtime-main.6681a6bc.js.map",
+    "static/js/2.a20b1bc2.chunk.js": "/React-pomodoro-timer/static/js/2.a20b1bc2.chunk.js",
+    "static/js/2.a20b1bc2.chunk.js.map": "/React-pomodoro-timer/static/js/2.a20b1bc2.chunk.js.map",
+    "static/js/3.b008e3ef.chunk.js": "/React-pomodoro-timer/static/js/3.b008e3ef.chunk.js",
+    "static/js/3.b008e3ef.chunk.js.map": "/React-pomodoro-timer/static/js/3.b008e3ef.chunk.js.map",
+    "index.html": "/React-pomodoro-timer/index.html",
+    "static/css/main.003f06a0.chunk.css.map": "/React-pomodoro-timer/static/css/main.003f06a0.chunk.css.map",
+    "static/js/2.a20b1bc2.chunk.js.LICENSE.txt": "/React-pomodoro-timer/static/js/2.a20b1bc2.chunk.js.LICENSE.txt",
+    "static/media/add-button.97a95254.png": "/React-pomodoro-timer/static/media/add-button.97a95254.png",
+    "static/media/coffee-cup.49e70aa6.png": "/React-pomodoro-timer/static/media/coffee-cup.49e70aa6.png",
+    "static/media/minus-sign.340fd728.png": "/React-pomodoro-timer/static/media/minus-sign.340fd728.png",
+    "static/media/reset.7a1af594.png": "/React-pomodoro-timer/static/media/reset.7a1af594.png",
+    "static/media/work.9d1a43fc.png": "/React-pomodoro-timer/static/media/work.9d1a43fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6681a6bc.js",
+    "static/js/2.a20b1bc2.chunk.js",
+    "static/css/main.003f06a0.chunk.css",
+    "static/js/main.e099222d.chunk.js"
+  ]
+}
